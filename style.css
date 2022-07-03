@@ -1,0 +1,246 @@
+.main{
+    width: 700px;
+    height: 600px;
+    margin: 0 auto;
+    background-color: black;
+}
+.first{
+    width: 700px;
+    height: 300px;
+    background-color: antiquewhite;
+}
+.first-left{
+    width: 350px;
+    height: 300px;
+    float: left;
+    background-color: aqua;
+}
+.first-left-top{
+    width: 350px;
+    height: 200px;
+    background-color: red;
+}
+.first-left-top-left{
+    width: 100px;
+    height: 200px;
+    float: left;
+    background-color: cadetblue;
+}
+.first-left-top-left-top{
+    width: 100px;
+    height: 100px;
+    background-color: chartreuse;
+}
+.first-left-top-left-bottom{
+    width: 100px;
+    height: 100px;
+    background-color: cadetblue;
+}
+.first-left-top-right{
+    width: 250px;
+    height: 200px;
+    float: right;
+    background-color: darkcyan;
+}
+.first-left-top-right-left{
+    width: 100px;
+    float: left;
+    background-color: deeppink;
+}
+.first-left-top-right-right{
+    width: 150px;
+    height: 200px;
+    float: right;
+    background-color: darkgoldenrod;
+}
+.first-left-top-right-right-top{
+    height: 100px;
+    background-color: darkkhaki;
+}
+.first-left-top-right-right-bottom{
+    height: 100px;
+    background-color: darkseagreen;
+}
+.first-left-bottom{
+    width: 350px;
+    height: 100px;
+    background-color: thistle;
+}
+.first-right{
+    width: 350px;
+    height: 300px;
+    float: right;
+    background-color: blue;
+}
+.first-right-left{
+    width: 100px;
+    height: 300px;
+    float: left;
+    background-color: gold;
+}
+.first-right-right{
+    width: 250px;
+    height: 300px;
+    float: right;
+    background-color: gray;
+}
+.first-right-right-top{
+    height: 100px;
+    background-color: blue;
+}
+.first-right-right-bottom{
+    height: 200px;
+    width: 250px;
+    background-color: purple;
+}
+.first-right-right-bottom-left{
+    width: 125px;
+    height: 200px;
+    float: left;
+    background-color: violet;
+}
+.first-right-right-bottom-left-right{
+    width: 75px;
+    height: 100px;
+    float: right;
+    background-color: skyblue;
+}
+.first-right-right-bottom-right{
+    width: 125px;
+    height: 200px;
+    float: right;
+    background-color: yellow;
+}
+.first-right-right-bottom-right-top{
+    height: 100px;
+    background-color: gainsboro;
+}
+.first-right-right-bottom-right-bottom{
+    height: 100px;
+    background-color: yellowgreen;
+    
+}
+.last{
+    width: 700px;
+    height: 300px;
+    background-color: yellowgreen;
+}
+.last-left{
+    width: 300px;
+    height: 300px;
+    float: left;
+    background-color: black;
+}
+.last-left-top{
+    width: 300px;
+    height: 150px;
+    background-color: black;
+}
+.last-left-top-left{
+    width: 100px;
+    height: 150px;
+    float: left;
+    background-color: orangered;
+}
+.last-left-top-right{
+    width: 200px;
+    float: right;
+    height: 150px;
+    background-color: black;
+}
+.last-left-top-right-left{
+    width: 100px;
+    height: 150px;
+    float: left;
+    background-color: olivedrab;
+}
+.last-left-top-right-right{
+    width: 100px;
+    height: 150px;
+    float: right;
+    background-color: purple;
+}
+.last-left-mid{
+    height: 50px;
+    background-color: green;
+}
+.last-left-bottom{
+    height: 100px;
+    width: 300px;
+    background-color: black;
+}
+.last-left-bottom-left{
+    width: 150px;
+    float: left;
+    height: 100px;
+    background-color: steelblue;
+}
+.last-left-bottom-right{
+    width: 150px;
+    float: right;
+    height: 100px;
+    background-color: skyblue;
+}
+.last-right{
+    width: 400px;
+    height: 300px;
+    float: right;
+    background-color: black;
+}
+.last-right-left{
+    width: 300px;
+    height: 300px;
+    float: left;
+    background-color: black;
+}
+.last-right-left-top{
+    height: 250px;
+    width: 300px;
+    background-color: black;
+}
+.last-right-left-top-left{
+    width: 175px;
+    height: 250px;
+    float: left;
+    background-color: black;
+}
+.last-right-left-top-left-top{
+    height: 150px;
+    width: 175px;
+    background-color: red;
+}
+.last-right-left-top-left-bottom{
+    height: 100px;
+    width: 175px;
+    background-color: yellow;
+}
+.last-right-left-top-right{
+    width: 125px;
+    height: 250px;
+    float: right;
+    background-color: black;
+}
+.last-right-left-top-right-left{
+    width: 75px;
+    height: 250px;
+    float: left;
+    background-color: gray;
+}
+.last-right-left-top-right-right{
+    width: 50px;
+    height: 250px;
+    float: right;
+    background-color: tomato;
+}
+.last-right-left-bottom{
+    height: 50px;
+    width: 300px;
+    background-color: gainsboro;
+}
+.last-right-right{
+    width: 100px;
+    float: right;
+    height: 300px;
+    background-color: olive;
+    
+}
